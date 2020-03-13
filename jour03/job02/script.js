@@ -37,8 +37,7 @@ $(document).ready(function(){
       if ($(this).parent().attr('id') == "melangees") 
       {
         $(this).appendTo("#rangees");
-        win.push(this);
-        
+       
         
       }
      
